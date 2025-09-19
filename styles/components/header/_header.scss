@@ -29,5 +29,27 @@ header{
             }
         }
     }
+    // ...existing code...
+
+}
+
+@media (max-width: 480px) {
+    header {
+        height: 60px;
+        nav {
+            width: 300px;
+            .nav__enlace {
+                margin-left: 10px;
+                width: 32px;
+                height: 32px;
+            }
+            button {
+                margin-right: 10px;
+                width: 80px;
+                height: 32px;
+                font-size: 14px;
+            }
+        }
+    }
 }
 
