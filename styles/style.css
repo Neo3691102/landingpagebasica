@@ -173,6 +173,10 @@ footer p .star {
   color: goldenrod;
   font-size: 20px;
 }
+footer p .number {
+  font-weight: 600;
+  margin: 0 6px;
+}
 
 @media (max-width: 480px) {
   footer {
