@@ -44,7 +44,9 @@ header nav button:hover {
     height: 32px;
   }
   header nav button {
-    margin-right: 10px;
+    margin-right: 0;
+    position: relative;
+    right: 0;
     width: 80px;
     height: 32px;
     font-size: 14px;
