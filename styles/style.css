@@ -79,6 +79,9 @@ main .main__s1 form {
   align-items: center;
   justify-content: flex-start;
 }
+main .main__s1 form label {
+  margin-right: 12px;
+}
 main .main__s1 form input {
   width: 250px;
   height: 40px;

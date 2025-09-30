@@ -23,6 +23,9 @@ main{
             display: flex;
             align-items: center;
             justify-content: flex-start;
+            label{
+                margin-right: 12px;
+            }
             input{
                 width: 250px;
                 height: 40px;
