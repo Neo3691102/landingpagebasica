@@ -113,6 +113,8 @@ main .main__s2 img {
   position: relative;
   right: 150px;
   border-radius: 12px;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 @media (max-width: 480px) {
